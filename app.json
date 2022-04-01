@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "km2-rdo",
+    "slug": "km2-rdo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
